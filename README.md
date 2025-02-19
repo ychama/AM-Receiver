@@ -1,14 +1,15 @@
 # AM Receiver Design and Implementation
 
-## Circuit Diagram  
-
-<img src="./media/circuit_image.jpg" alt="Circuit Image" width="500">
-
-
-
 ## AM Receiver Demo  
 
 [![AM Receiver Demo](https://img.youtube.com/vi/envZ-l_EdCk/maxresdefault.jpg)](https://youtube.com/shorts/envZ-l_EdCk)
+
+
+## Circuit Diagram  
+
+<img src="./media/circuit_image.jpg" alt="Circuit Image" width="300">
+
+
 
 
 ---
